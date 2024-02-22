@@ -82,3 +82,8 @@ struct Character: Identifiable {
         ]
     }
 }
+
+
+func testGitRever() {
+    print("I wanted to test the git revert by adding this method and also wanted to ensure that GIT should retain the commit history so that if i am working in shared branches then it should give clear idea what has just happend in this branch")
+}
